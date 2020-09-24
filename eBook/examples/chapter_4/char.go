@@ -1,5 +1,5 @@
 // char.go
-package main
+package trans
 
 import (
 	"fmt"

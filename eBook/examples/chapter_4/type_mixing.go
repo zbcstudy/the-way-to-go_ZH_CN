@@ -1,4 +1,4 @@
-package main
+package trans
 
 func main() {
 	var a int

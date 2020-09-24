@@ -1,6 +1,6 @@
 // testcrash.go
 // compiles , but crashes
-package main
+package trans
 
 func main() {
 	var p *int = nil

@@ -1,4 +1,4 @@
-package main
+package trans
 
 import "fmt" // Package implementing formatted I/O.
 
